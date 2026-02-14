@@ -1,1 +1,3 @@
-the note app releases
+Copyright © 2026 kc0ver。保留所有权利。
+
+本仓库仅用于展示和分发Notes应用。未经授权，禁止将本应用用于任何商业用途或进行二次分发。
